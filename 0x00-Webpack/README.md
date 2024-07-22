@@ -1,6 +1,6 @@
 ## 0x00. Webpack 
 
----Front-endJavaScriptES6
+---Front-end JavaScriptES6
 
 ![image](boro.png)
 ## Resources
