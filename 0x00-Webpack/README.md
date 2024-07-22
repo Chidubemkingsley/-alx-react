@@ -2,8 +2,7 @@
 
 ---Front-endJavaScriptES6
 
-![image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/121b1f6534e60566e1de.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240722%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240722T181453Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c51bfdbdf06e9a27821ddc86c0c00e753fcd7f419eb634ad47e35ef4356ced93)
-
+![image](boro.png)
 ## Resources
 
 --- Read or watch:
