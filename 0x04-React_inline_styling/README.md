@@ -1,7 +1,7 @@
 ## 0x04. React inline styling
    Front-end JavaScript ES6 React
 
-![image}(bo.jpg)
+![image](bo.jpg)
 
 ## Resources
 
